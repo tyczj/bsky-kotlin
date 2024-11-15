@@ -1,4 +1,4 @@
-package com.tyczj.bsky_kotlin
+package com.tyczj.bsky
 
 class Greeting {
     private val platform: Platform = getPlatform()

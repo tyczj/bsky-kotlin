@@ -1,4 +1,4 @@
-package com.tyczj.bsky_kotlin
+package com.tyczj.bsky
 
 class AndroidPlatform : Platform {
     override val name: String = "Android ${android.os.Build.VERSION.SDK_INT}"

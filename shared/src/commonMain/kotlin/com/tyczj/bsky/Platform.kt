@@ -1,4 +1,4 @@
-package com.tyczj.bsky_kotlin
+package com.tyczj.bsky
 
 interface Platform {
     val name: String
